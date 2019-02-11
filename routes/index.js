@@ -95,8 +95,8 @@ var PAYLOAD = {
   ],
   "note_to_payer": "Contact us for any questions on your order.",
   "redirect_urls": {
-    "return_url": "https://nativexo-cart.herokuapp.com/thankyou",
-    "cancel_url": "https://nativexo-cart.herokuapp.com/thankyou"
+    "return_url": "https://nativexo-sample.herokuapp.com/thankyou",
+    "cancel_url": "https://nativexo-sample.herokuapp.com/thankyou"
   }
 };
 
