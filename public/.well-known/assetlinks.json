@@ -14,5 +14,14 @@
     "package_name": "com.paypal.dereanderson.syrnativeandroid",
     "sha256_cert_fingerprints":
     ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
+  }, 
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.nativecheckouttest",
+    "sha256_cert_fingerprints":
+    ["E2:D4:8E:3A:0D:0F:7B:5E:E4:D0:F6:79:97:95:6E:96:97:11:CD:6A:CA:C6:5D:BE:8C:A1:2D:0D:4B:A8:8F:2B"]
   }
+}
 }]
